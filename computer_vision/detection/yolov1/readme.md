@@ -1,12 +1,13 @@
 ### YOLOv1 Tutorial
 
 #### Requirements
- * Tensorflow 2.6
+```
+ * Tensorflow==2.6
  * OpenCV
  * Pandas
  * Matplotlib
  * Numpy
-
+```
 #### Topics covered
 
 * Creating Dataloader
