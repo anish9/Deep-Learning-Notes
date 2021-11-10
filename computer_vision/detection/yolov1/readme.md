@@ -2,8 +2,8 @@
 
 #### Topics covered
 
-* Dataloader
-* Model
+* Creating Dataloader
+* Creating Model and utilities
 * Training
 * Testing
 * Drawbacks and Development
