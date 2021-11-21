@@ -3,4 +3,4 @@ Tutorials,Notes and Topic discussions
 
 ### Repo Structure
 * Tensorflow basics
-  * TF_fundamentals bascis.ipynb 
+  * TF_fundamentals.ipynb (dev) 
