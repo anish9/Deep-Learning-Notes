@@ -1,6 +1,6 @@
 # Deep-Learning-Notes
 Tutorials,Notes and Topic discussions
 
-### Repo Structure
+### Contents 
 * Tensorflow basics
   * TF_fundamentals.ipynb (dev) 
