@@ -1,4 +1,5 @@
 1 - Why VGG is called VGG16 and how many parameters it has?
 * The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
-2 - Exmplain the arrangement of VGG network?
+
+2 - Explain the arrangement of VGG network?
 * It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC(fully connected layers) followed by a softmax for output. 
