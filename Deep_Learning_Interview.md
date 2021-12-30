@@ -3,3 +3,8 @@
 
 2 - Explain the arrangement of VGG network?
 * It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC(fully connected layers) followed by a softmax for output. 
+
+3 - Explain a scenario where you prefer to use seperable convolution2D instead of standard convolution2D?
+* When number of network parameters has to be reduced we can opt seperable Conv2D.
+
+
