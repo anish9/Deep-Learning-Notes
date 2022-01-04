@@ -7,4 +7,7 @@
 3 - Explain a scenario where you prefer to use seperable convolution2D instead of standard convolution2D?
 * When number of network parameters has to be reduced we can opt seperable Conv2D.
 
+4- Explain a scenario when it is more suitable to use 1x1 kernel ?
+* Ideally when the number of computations has to come down we can use 1x1 kernel.
+
 
