@@ -10,4 +10,7 @@ Tutorials,Notes and Topic discussions
   * OCR
     * CRNN+CTC exploration
   * Classification
-    * ...
+    *...
+ * NLP
+    * Text-Classification
+      * NLP_transformer_text_classifier 
