@@ -14,3 +14,5 @@ Tutorials,Notes and Topic discussions
  * NLP
     * Text-Classification
       * NLP_transformer_text_classifier 
+    * Sequence models
+      * NLP Dialog generation chatbot
