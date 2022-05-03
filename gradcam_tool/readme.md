@@ -25,7 +25,10 @@ troubleshoot.visualize(file_id,size)
 ```
 
 ### Example Visualizations:
-<figure>
-<img src="https://github.com/anish9/Deep-Learning-Notes/blob/main/gradcam_tool/assets/resulteff.jpg" align="center" alt="effbb0" style="width:30%">
-<figcaption align = "center"><b>Focused regions of EfficientNetB0</b></figcaption>
-</figure>
+<p align = "center">
+<img src = "https://github.com/anish9/Deep-Learning-Notes/blob/main/gradcam_tool/assets/resulteff.jpg">
+</p>
+<p align = "center">
+GradCAM - EfficientNetB0
+</p>
+
