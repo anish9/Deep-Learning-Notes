@@ -23,3 +23,6 @@ pprint(troubleshoot.get_class_names(img_array,decoder=decoder))
 troubleshoot.compute_cam(img_array)
 troubleshoot.visualize(file_id,size)
 ```
+
+### Example Visualizations:
+![efficb0](https://github.com/anish9/Deep-Learning-Notes/blob/main/gradcam_tool/assets/resulteff.jpg)
