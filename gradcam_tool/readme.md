@@ -1,5 +1,5 @@
-# Usage
-* Refer Example.ipynb for proper understanding based on custom use cases.
+## Usage
+* Refer **Example.ipynb** Notebook for wider custom use cases.
 
 ### Load the model presets:
 ```
