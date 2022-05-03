@@ -9,5 +9,7 @@
 
 4- Explain a scenario when it is more suitable to use 1x1 kernel ?
 * Ideally when the number of computations has to come down we can use 1x1 kernel.
+5- which is parallelizable Transformers or RNN? 
+* RNN by their training nature are not parallelizable but Transformers are parallelizable.
 
 
