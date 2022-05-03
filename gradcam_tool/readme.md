@@ -25,4 +25,7 @@ troubleshoot.visualize(file_id,size)
 ```
 
 ### Example Visualizations:
-![efficb0](https://github.com/anish9/Deep-Learning-Notes/blob/main/gradcam_tool/assets/resulteff.jpg)
+<figure>
+<img src="https://github.com/anish9/Deep-Learning-Notes/blob/main/gradcam_tool/assets/resulteff.jpg" alt="effbb0" style="width:100%">
+<figcaption align = "center"><b>Focused regions of EfficientNetB0</b></figcaption>
+</figure>
