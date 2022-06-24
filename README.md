@@ -1,7 +1,7 @@
 # Deep-Learning-Notes
 Tutorials,Notes and Topic discussions
 
-### Contents 
+### Directory
 * Tensorflow basics
   * ...
 * Computer-Vision
@@ -9,8 +9,9 @@ Tutorials,Notes and Topic discussions
     * YoloV1 exploration
   * OCR
     * CRNN+CTC exploration
-  * Classification
-    *...
+  * Segmentation
+    *Medical Image Segmentation
+     ...
  * NLP
     * Text-Classification
       * NLP_transformer_text_classifier 
