@@ -10,7 +10,7 @@ Tutorials,Notes and Topic discussions
   * OCR
     * CRNN+CTC exploration
   * Segmentation
-    *Medical Image Segmentation
+    * Medical Image Segmentation
      ...
  * NLP
     * Text-Classification
