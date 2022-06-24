@@ -11,7 +11,7 @@ Tutorials,Notes and Topic discussions
     * CRNN+CTC exploration
   * Segmentation
     * Medical Image Segmentation
-      ...
+    
  * NLP
     * Text-Classification
       * NLP_transformer_text_classifier 
