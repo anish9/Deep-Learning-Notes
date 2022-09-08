@@ -1,6 +1,6 @@
 ## Usage
 * Refer **Example.ipynb** Notebook for wider custom use cases.
-* Credits : Keras.io Examples
+
 
 ### Load the model presets:
 ```
@@ -47,3 +47,4 @@ GradCAM - ResNet50V2
 GradCAM - Xception
 </p>
 
+#### Credits : Keras.io Examples
