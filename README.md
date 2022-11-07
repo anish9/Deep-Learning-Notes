@@ -11,8 +11,8 @@ Tutorials,Notes and Topic discussions
     * CRNN+CTC exploration
   * Segmentation
     * Medical Image Segmentation
-  *Image Caption
-    *Transformers for Image-Caption 
+  * Image Caption
+    * Transformers for Image-Caption 
     
  * NLP
     * Text-Classification
