@@ -19,6 +19,8 @@ Tutorials,Notes and Topic discussions
       * NLP_transformer_text_classifier 
     * Sequence models
       * NLP Dialog generation chatbot
+    * Foundational Modelling
+      * MLM text generation.
 
 * Model Debugging 
     * GradCAM Toolbox using TF-Keras
