@@ -5,3 +5,12 @@ Unbox Deep Learning - Systems deep:
    are currently needed into RAM, while the rest of the process can reside on the hard disk. 
    Example : DataLoader can make use of paging memory for performance gain.
 
+
+2) Calculating Model Informations:
+   Give a number of parameters of a neural net, first find what is the precision of each parameter(float16, float32 or float64).
+   Formula is simple now,             total_memory = (number of paramters * precision_expressed_in_bytes)
+                                      Example :  PARAMTETERS : 2300012, PRECISION :  float32 (32/8=4 BYTES)
+                                      total_memory = 23,00,012*4
+                                      1 MB = 1,048,576 bytes
+                                      to_get_model_size_in_mb = total_memory/ 1,048,576
+
