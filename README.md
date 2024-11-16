@@ -12,7 +12,9 @@ Tutorials,Notes and Topic discussions
   * Segmentation
     * Medical Image Segmentation
   * Image Caption
-    * Transformers for Image-Caption 
+    * Transformers for Image-Caption
+  * Unsupervised Learning
+    * SimCLR
     
  * NLP
     * Text-Classification
